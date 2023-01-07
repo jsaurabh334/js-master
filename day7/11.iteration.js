@@ -20,7 +20,7 @@
 
 
 
-let studentsData = [['Jack', 24], ['Sara', 23],];
+let studentsData = [ ['Jack', 24] , ['Sara', 23],];
 
 // looping outer array elements
 for(let i = 0; i < studentsData.length; i++){

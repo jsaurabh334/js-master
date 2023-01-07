@@ -1,6 +1,8 @@
-var arrey1= [["saurabh",1],["sunil",2]]
-arrey1[1][2] = "taroni"
-arrey1[0][2]= "jain"
+let st=[["saurabh",1],["shevi",2],["sunil",3]]
 
-arrey1.push(["shevi",3])
-console.log(arrey1)
+st.forEach(   (student) =>{
+    console.log(student)
+    // student.forEach((data)=>{
+    //     console.log(data)
+    // })
+})
