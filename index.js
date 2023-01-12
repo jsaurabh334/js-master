@@ -1,8 +1,13 @@
-let st=[["saurabh",1],["shevi",2],["sunil",3]]
+// loops
+// 3 type of loops 
+// 1.for loop
+// 2.while
+// 3. do while  
+// wap to print table of 4 
+let i = 1
 
-st.forEach(   (student) =>{
-    console.log(student)
-    // student.forEach((data)=>{
-    //     console.log(data)
-    // })
-})
+var number  = 4
+do {
+    console.log(i *4 )
+    i++
+} while (i<=10);
