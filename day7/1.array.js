@@ -10,3 +10,4 @@ console.log(typeof(array2));
 
 // array with mixed data types
 const newData = ['work', 'exercise', 1, true];
+console.log(newData)
